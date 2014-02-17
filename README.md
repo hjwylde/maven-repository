@@ -13,3 +13,5 @@ Currently it includes the following artifacts:
 * whiley:wyjc:[0.3.21,0.3.22]
 * whiley:wyrl:[0.3.21,0.3.22]
 * whiley:wyrt:[0.3.21,0.3.22]
+
+To use the repository, include the following URL: https://github.com/hjwylde/maven-repository/raw/master/repository
