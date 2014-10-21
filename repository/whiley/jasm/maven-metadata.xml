@@ -2,12 +2,11 @@
 <metadata>
   <groupId>whiley</groupId>
   <artifactId>jasm</artifactId>
-  <version>0.1.1</version>
+  <version>0.1.6</version>
   <versioning>
     <versions>
-      <version>0.1.1</version>
-      <version>0.1.4</version>
+      <version>0.1.6</version>
     </versions>
-    <lastUpdated>20141021234949</lastUpdated>
+    <lastUpdated>20141021235359</lastUpdated>
   </versioning>
 </metadata>

@@ -2,16 +2,11 @@
 <metadata>
   <groupId>whiley</groupId>
   <artifactId>wyrl</artifactId>
-  <version>0.3.21</version>
+  <version>0.3.31</version>
   <versioning>
     <versions>
-      <version>0.3.21</version>
-      <version>0.3.22</version>
-      <version>0.3.23</version>
-      <version>0.3.24</version>
-      <version>0.3.25</version>
       <version>0.3.31</version>
     </versions>
-    <lastUpdated>20141021234952</lastUpdated>
+    <lastUpdated>20141021235400</lastUpdated>
   </versioning>
 </metadata>
