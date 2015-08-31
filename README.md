@@ -1,4 +1,6 @@
-# Maven Repository
+# maven-repository
+
+[![Project Status: Unsupported - The project has reached a stable, usable state but the author(s) have ceased all work on it. A new maintainer may be desired.](http://www.repostatus.org/badges/1.0.0/unsupported.svg)](http://www.repostatus.org/#unsupported)
 
 This project is a personal maven repository for files that are in development and / or yet to be uploaded to a central maven repository.
 
